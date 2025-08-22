@@ -12,4 +12,4 @@ This text is *italicized*
 
 ### This is an image
 
-![This is a water bear](https://www.buildabear.com/mint-tardigrade-water-bear-plush/033326.html)
+![This is a water bear](https://pikmin.fandom.com/wiki/Red_Pikmin)

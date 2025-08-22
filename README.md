@@ -12,4 +12,4 @@ This text is *italicized*
 
 ### This is an image
 
-![This is a water bear](https://pikmin.fandom.com/wiki/Red_Pikmin)
+![This is a water bear](amazon.com/Vadkind-Pikmin-Plush-11-8inch-Plushies/dp/B0CD62R1RM)

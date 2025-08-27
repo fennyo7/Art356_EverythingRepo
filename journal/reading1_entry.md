@@ -5,3 +5,15 @@ Overall, chapter 1 talks about how everyday things are and talks about their des
 
 
 Another thing are everyday things with a lot of elements or controls. On page 22, it's stated that a telephone is harder to use than an automobile despite the automobile having almost 4 times more controls than a telephone. This stood out to me because something like this just seems natural where a complex thing is easier to use than something that seems rather simple. While the automobile has a lot of functions, the design is fluid in that correlated controls are close to each other and the entire system, when you learn how to use it, is seamless. Compared to the telephone which has no real guide on how to use it and the controls aren't as understandable. 
+
+
+
+# Bad Mapping (as per request of Tyler) 
+
+![Too many buttons and unimportant button is the biggest](https://drive.google.com/file/d/1HTe9uMUz6LnQA8tqVfuXGrXq1gdixO7U/view)
+
+![Different back button 1](https://drive.google.com/file/d/1-6oig84cmdE3-LNNQ05SlGevo1BgFVgn/view)
+
+![Different back button 2](https://drive.google.com/file/d/1rCKW914gvlAdJSFxU7QcSmCZ1yOMoxo1/view)
+
+![Scrolling bad!!!](https://drive.google.com/file/d/1dA0zX-YigRiE8q1fTw06nus1MWs3_Pwv/view)

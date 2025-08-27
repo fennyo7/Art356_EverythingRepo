@@ -8,12 +8,29 @@ Another thing are everyday things with a lot of elements or controls. On page 22
 
 
 
-# Bad Mapping (as per request of Tyler) 
+### Bad Mapping (as per request of Tyler) 
 
-![Too many buttons and unimportant button is the biggest](https://drive.google.com/file/d/1HTe9uMUz6LnQA8tqVfuXGrXq1gdixO7U/view)
 
-![Different back button 1](https://drive.google.com/file/d/1-6oig84cmdE3-LNNQ05SlGevo1BgFVgn/view)
 
-![Different back button 2](https://drive.google.com/file/d/1rCKW914gvlAdJSFxU7QcSmCZ1yOMoxo1/view)
+Too many buttons and unimportant button is bigger than the rest. 
 
-![Scrolling bad!!!](https://drive.google.com/file/d/1dA0zX-YigRiE8q1fTw06nus1MWs3_Pwv/view)
+
+
+<img src="/images/IMG_8381.PNG"></img>
+
+
+Different buttoning positions
+
+
+
+
+<img src="/images/IMG_8378.PNG"></img>
+
+<img src="/images/IMG_8379.PNG"></img>
+
+
+Too much scrolling to find what you need to buy
+
+
+
+<img src="/images/IMG_8380.PNG"></img>

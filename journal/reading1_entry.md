@@ -1,4 +1,7 @@
 # Chapter 1 of DOET
 
 Overall, chapter 1 talks about how everyday things are and talks about their design. There are probably thousands of designs and probably at least a hundred in someone's room but I find it interesting that we don't really realize it even though we have to learn how to use the items. "Suppose that each everyday thing takes only one minute to learn; learning 20,000 of them occupies 20,000 minutes—333 hours or about 8 forty-hour work weeks." (pg. 12) I find this to be a scary yet interesting thought. There are so many things going on in our lives and yet interacting with these things are supposed to be seamless. With how many things we have to learn, it is easy to think we are wasting too much time doing a certain thing in our routine over the others, even if we learned how to use said thing. 
+
+
+
 Another thing are everyday things with a lot of elements or controls. On page 22, it's stated that a telephone is harder to use than an automobile despite the automobile having almost 4 times more controls than a telephone. This stood out to me because something like this just seems natural where a complex thing is easier to use than something that seems rather simple. While the automobile has a lot of functions, the design is fluid in that correlated controls are close to each other and the entire system, when you learn how to use it, is seamless. Compared to the telephone which has no real guide on how to use it and the controls aren't as understandable. 

@@ -13,3 +13,9 @@ For booleans, the three logical operators are and, or, and not. And is true only
 Special values are null and undefined, which are values that show when there isn't a valid value. They are values but carry no information. The difference between these two values don't matter most of the time so they are for the most part interchangeable. 
 
 When an operator is given the wrong type of value, JavaScript corrects you and converts the value to the type it needs. This is type coercion. If the correction isn't obvious, you get NaN and further operations produce more NaNs. If you want to know if your value is the real one, you can compare it to null with the = operator. 
+
+# Chapter 2 of Eloquent JavaScript
+
+Since I am an idiot and thought that chapter 1 had a discussion post and I am too lazy to delete it, I'll just keep my reading 2 as the chapter 1 + 2 of the Eloquent Javascript. I have added the code for the exercises for the second chapter, could only figure out how to do 2 of them (.5 points in the first one, 1 point for the second, and 0.5 for the third). 
+
+First one I did get the result but it is manual labor, second one I figured out easily, third one is manual labor except that I only figured out how to do the height part, not the width. Click on JavascriptBookCh2 folder in order to see my code (it is not very interesting). 

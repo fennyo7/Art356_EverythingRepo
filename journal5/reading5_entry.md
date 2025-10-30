@@ -115,7 +115,7 @@ interaction, raising the question: Why? (From Portigal & Norvaisas, 2011.)" (pg 
 - Sound can annoy and distract as easily as it can help
 - Absence of sound means absence of knowledge and if feedback is expected from sound, silence can lead to problems
 
-### When silence kills
+### When silence kills (pg 157)
 
 - Oh boy another story
 - Electric cars are very quiet and if they don't make sounds, they can kill
